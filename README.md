@@ -13,8 +13,8 @@
 
 - 点右上角 **Use this template** 按钮复制本 GitHub 仓库  
   :warning: 千万不要 Fork，因为 fork 项目的动态并不会让你变绿 :warning:  
-- 修改 [ci.yml 的第 8 行](https://github.com/SadYuyuko/Hierophant-Green/blob/main/.github/workflows/ci.yml#L8) 设置执行频率
-- 修改 [ci.yml 的第 21、22 行](https://github.com/SadYuyuko/Hierophant-Green/blob/main/.github/workflows/ci.yml#L21-L22) 为自己的 GitHub 邮箱和用户名。由于commit记录默认可见，推荐邮箱填`数字+你的用户名@users.noreply.github.com`github隐私邮箱而不是个人邮箱
+- 修改 [ci.yml 的第 8 行](https://github.com/Carteahere/Hierophant-Green/blob/main/.github/workflows/ci.yml#L8) 设置执行频率
+- 修改 [ci.yml 的第 21、22 行](https://github.com/Carteahere/Hierophant-Green/blob/main/.github/workflows/ci.yml#L21-L22) 为自己的 GitHub 邮箱和用户名。由于commit记录默认可见，推荐邮箱填`数字+你的用户名@users.noreply.github.com`github隐私邮箱而不是个人邮箱
 
 ## 随机（可选）
 
