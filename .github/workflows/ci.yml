@@ -18,8 +18,8 @@ jobs:
         env:
           RANDOM_COMMIT: ${{ vars.RANDOM_COMMIT }}
         run: |
-          git config --local user.email "61406895+SadYuyuko@users.noreply.github.com"
-          git config --local user.name "SadYuyuko"
+          git config --local user.email "61406895+Carteahere@users.noreply.github.com"
+          git config --local user.name "Carteahere"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           if [ "$RANDOM_COMMIT" = "1" ]; then
